@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "name": "Cargo Reverse Dependencies",
+  "name": "Crates.io Reverse Dependencies",
   "description": "Show the link to reverse dependencies in crate pages",
   "version": "0.2.0",
   "content_scripts": [{
