@@ -1,7 +1,7 @@
 Crates.io Reverse Dependencies
 ==============================
 
-This is a chrome extension to display reverse-dependencies in crate pages.
+This is a chrome extension to see reverse-dependencies in crate pages.
 
 Screenshot
 ----------

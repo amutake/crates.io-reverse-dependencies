@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
   "name": "Crates.io Reverse Dependencies",
-  "description": "Show the link to reverse dependencies in crate pages",
-  "version": "0.2.1",
+  "description": "Show reverse-dependencies in crate pages",
+  "version": "0.2.2",
   "content_scripts": [{
     "matches": ["https://crates.io/crates/*"],
     "js": ["script.js"],
