@@ -20,4 +20,4 @@ Installation
 ------------
 
 1. Download the `.crx` file from the [release page](https://github.com/amutake/crates.io-reverse-dependencies/releases)
-2. Drag and drop the `.crx` file into the [extension page](chrome://extensions)
+2. Drag and drop the `.crx` file into the extension page (`chrome://extensions`)
