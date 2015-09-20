@@ -1,0 +1,11 @@
+{
+  "manifest_version": 2,
+  "name": "Cargo Reverse Dependencies",
+  "description": "Show the link to reverse dependencies in crate pages",
+  "version": "0.1.0",
+  "content_scripts": [{
+    "matches": ["https://crates.io/crates/*"],
+    "js": ["script.js"],
+    "run_at": "document_start"
+  }]
+}
